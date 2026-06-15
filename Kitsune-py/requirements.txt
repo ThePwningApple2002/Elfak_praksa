@@ -1,0 +1,9 @@
+# Dependencies detected from code analysis
+numpy
+scipy
+matplotlib
+scapy
+cython
+# Notes:
+# - `pyximport` is provided by Cython.
+# - External tool: `tshark` (Wireshark) is optionally used for faster pcap parsing.
